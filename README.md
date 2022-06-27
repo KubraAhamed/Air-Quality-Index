@@ -6,3 +6,7 @@ techniques such as Probability, Statistics etc. were used to predict the quality
 The proposed system is used to predict the air quality using the Machinelearning algorithms and overcomes the problems of Existing System. The Air pollutants 
 information is retrieved from the sensors which are processed in a unified schema and stored as a dataset. This dataset is preprocessed. Once the dataset is ready, it is split into training dataset and test dataset. And further Supervised Machine Learning Algorithms are applied on the dataset. The Machine Learning algorithm applied on the dataset is
 Linear Regression. The obtained results are matched with the testing dataset and results are analyzed.
+
+### Data Set URL
+https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
+
